@@ -25,4 +25,4 @@ Cross-validation helps in reducing variance and obtaining a more generalized per
 📂 Files in this Repository
 poly_reg_and_CV.ipynb – Jupyter Notebook implementing Polynomial Regression with different cross-validation techniques.
 
-Dataset (if applicable) – The dataset used for model training and evaluation.
+Dataset – The dataset used for model training and evaluation has been attached in this repository.
