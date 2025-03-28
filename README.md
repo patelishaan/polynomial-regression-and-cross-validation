@@ -17,7 +17,7 @@ Train-Test Split: MSE ~ 14, but results depend heavily on the random split.
 
 LOOCV: MSE ~ 11.64, leveraging almost the entire dataset for training, but computationally expensive.
 
-K-Fold CV (K=10): MSE ~ 11.22, balancing efficiency and reliability of error estimation.
+K-Fold CV (K=5): MSE ~ 11.22, balancing efficiency and reliability of error estimation.
 
 Why Cross-Validation?
 Cross-validation helps in reducing variance and obtaining a more generalized performance estimate, making the model less dependent on how data is split.
